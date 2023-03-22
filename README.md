@@ -1,2 +1,2 @@
 # Ygo
-my go project for project
+my go project for practice
